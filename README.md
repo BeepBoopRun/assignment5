@@ -19,3 +19,5 @@ Wiktor Rorat, 8.04.2025
 - **Git diff** can be useful when using format tools, to see what changes they make. 
 
 - **Git fetch** can be used to inspect changes in remote, without commiting them locally.
+
+- **Git status --ignored** is useful when setting up the .gitignore file
