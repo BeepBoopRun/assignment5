@@ -1,4 +1,6 @@
-### My example repository
+# My example repository
+
+Wiktor Rorat, 8.04.2025
 
 ## What I learned about git:
 
@@ -15,3 +17,5 @@
 - **Git blame** can be used to traceback unwated changes back to their author.
 
 - **Git diff** can be useful when using format tools, to see what changes they make. 
+
+- **Git fetch** can be used to inspect changes in remote, without commiting them locally.
