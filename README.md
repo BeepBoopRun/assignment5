@@ -10,7 +10,7 @@ Wiktor Rorat, 8.04.2025
 
 - **Git log** can be used to track project's progression through time, which can be useful to find important changes in previous versions.
 
-- Commits should alawys have identifiable messages, to make understandable at a glance.
+- Commits should alawys have identifiable messages, to make them understandable at a glance.
 
 - One has to keep in mind to always commit when working on a project from different devices, as not doing so can result in a merge conflict.
 
